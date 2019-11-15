@@ -1,0 +1,27 @@
+[submodule "Algos/Spider-Algos-Task-0"]
+	path = Algos/Spider-Algos-Task-0
+	url = https://github.com/BharathKumarRavichandran/Spider-Algos-Task-0.git
+[submodule "Web/Spider-Web-Dev-Task-0"]
+	path = Web/Spider-Web-Dev-Task-0
+	url = https://github.com/BharathKumarRavichandran/Spider-Web-Dev-Task-0.git
+[submodule "Web/Word-Speed-Count"]
+	path = Web/Word-Speed-Count
+	url = https://github.com/BharathKumarRavichandran/Word-Speed-Count.git
+[submodule "Web/Pocket-Tanks"]
+	path = Web/Pocket-Tanks
+	url = https://github.com/BharathKumarRavichandran/Pocket-Tanks.git
+[submodule "Web/Clippy"]
+	path = Web/Clippy
+	url = https://github.com/BharathKumarRavichandran/Clippy.git
+[submodule "Web/Revivify"]
+	path = Web/Revivify
+	url = https://github.com/BharathKumarRavichandran/Revivify.git
+[submodule "Web/FoodShare"]
+	path = Web/FoodShare
+	url = https://github.com/BharathKumarRavichandran/FoodShare.git
+[submodule "Web/Onsites/Invert-TileFlippingGame"]
+	path = Web/Onsites/Invert-TileFlippingGame
+	url = https://github.com/BharathKumarRavichandran/Invert-TileFlippingGame.git
+[submodule "Web/Onsites/Speech-Recognition"]
+	path = Web/Onsites/Speech-Recognition
+	url = https://github.com/BharathKumarRavichandran/Speech-Recognition.git
